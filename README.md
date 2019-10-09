@@ -6,4 +6,5 @@
 * [Postgres](https://github.com/cloud-ark/kubeplus/tree/master/postgres-crd)
 * [MySQL](https://github.com/grtl/mysql-operator)
 * [kubedb - multi-db support CRD](https://github.com/kubedb)
+* [K8S - CRD](https://github.com/jinghzhu/KubernetesCRD)
 
